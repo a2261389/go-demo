@@ -1,0 +1,51 @@
+[{
+        "id": 1,
+        "name": "王一",
+        "age": 22,
+        "isStudent": true,
+        "favorites": [
+            "讀書",
+            "跳舞"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "張二",
+        "age": 54,
+        "isStudent": false,
+        "favorites": [
+            "打麻將",
+            "煮飯"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "黃三",
+        "age": 37,
+        "isStudent": false,
+        "favorites": [
+            "喝酒",
+            "賺錢"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "陳四",
+        "age": 18,
+        "isStudent": true,
+        "favorites": [
+            "唱歌",
+            "跑步"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "林五",
+        "age": 7,
+        "isStudent": true,
+        "favorites": [
+            "玩遊戲",
+            "看小說"
+        ]
+    }
+]
